@@ -1,4 +1,3 @@
 
 this is my chapter2 page 1
-
-some stuff
+edit on page 1 on chapter 2
